@@ -5,3 +5,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/emeraldsan/INST326SUM.git
 git push -u origin main
+
+
+def say_hello():
+    print("hello")
+
+if __name__ == "__main__":
+    say_hello()
